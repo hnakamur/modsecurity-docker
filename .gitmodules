@@ -1,0 +1,3 @@
+[submodule "modsecurity"]
+	path = modsecurity
+	url = https://github.com/hnakamur/ModSecurity
